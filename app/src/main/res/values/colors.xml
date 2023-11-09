@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fairy_tale">#F5CCDA</color>
+    <color name="persian_pink">#EB84C4</color>
+    <color name="champagne">#EDD3BF</color>
+    <color name="light_blue">#B6DBE2</color>
+    <color name="lemon_chiffon">#FFFAD6</color>
+    <color name="periwinkle">#CDC7E5</color>
+</resources>
